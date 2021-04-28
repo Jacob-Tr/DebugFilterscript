@@ -1,6 +1,6 @@
 Generally useful SA-MP Gamemode setup and debug in-game utilities.
 
-    (Parameters marked with '*' are optional.
+    (Parameters marked with '*' are optional)
  - GiveWeapon command       /giveweapon [Player ID]* [Weapon ID] [Ammo] ~ Gives the player or specified player the specified weapon with 'Ammo" amount of ammunition.
  - Vehicle Command          /v [Vehicle Model ID] [Color 1]* [Color 2]* ~ Spawns 
  - Destroy Player Vehicle   /dpv [Player ID]* [Slot] ~ Destroys the specified player's vehicle which is in the specified slot; then reduces the slot of each proceeding player vehicle by 1.
