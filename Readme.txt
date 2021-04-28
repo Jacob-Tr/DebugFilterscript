@@ -1,5 +1,7 @@
 Generally useful SA-MP Gamemode setup and debug in-game utilities.
 
+    ~ This filterscript requires Y_less' YSI library and my EliteUserLib to run.
+
     (Parameters marked with '*' are optional)
  - GiveWeapon command       /giveweapon [Player ID]* [Weapon ID] [Ammo] ~ Gives the player or specified player the specified weapon with 'Ammo" amount of ammunition.
  - Vehicle Command          /v [Vehicle Model ID] [Color 1]* [Color 2]* ~ Spawns 
